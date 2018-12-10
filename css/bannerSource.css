@@ -1,0 +1,39 @@
+/* 优先加载第一张banner */
+html {
+	background: url(../images/home_banner_freeBuy.jpg) no-repeat 0 -1000px;
+}
+/* banner图 */
+.banner-act-one {
+	background: url(../images/home_banner_01.jpg) center center no-repeat;
+	background-size: cover;
+}
+.banner-act-freeBuy {
+	background: url(../images/home_banner_freeBuy.jpg) center center no-repeat;
+	background-size: cover;
+}
+.banner-new-official {
+	background: url(../images/home_banner_one.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+/* 5折活动*/
+.banner-engine .banner-text3 {
+	font-size: 32px;
+	color: #fff;
+}
+.banner-engine .banner-text4 {
+	margin-top: 0px;
+	font-size: 56px;
+	color: #fff;
+}
+.banner-engine .banner-text5 {
+	margin-top: 20px;
+	font-size: 24px;
+	color: #fff;
+}
+.banner-engine .banner-particulars-5zhe{
+	margin-top: 25px;
+}
+.banner-engine .banner-text2 {
+	color: #fff;
+}
